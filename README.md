@@ -16,7 +16,7 @@ This application reads in all tile images from a folder path and calculates each
     - If not provided the following folder will be created: `./dist/output`
 
 ## Limitations
-The application on supports the following image types:
+The application only supports the following image types:
 - bmp
 - gif
 - jpeg
